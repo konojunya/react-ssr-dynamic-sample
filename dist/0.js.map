@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./foundation/components/About.tsx"],"names":[],"mappings":";;;;;;;;;;;;AAAA;AAAA;AAAA;AAA+B;AAE/B,MAAM,KAAK,GAAG,GAAG,EAAE,CAAC,wEAAc,CAAC;AAEpB,oEAAK,EAAC","file":"0.js","sourcesContent":["import * as React from \"react\";\n\nconst About = () => <h1>about</h1>;\n\nexport default About;\n"],"sourceRoot":""}
